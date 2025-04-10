@@ -54,7 +54,7 @@ export default function Pricing() {
      <a href="https://app.lineagecrm.com" className="bg-linear-[90deg,#1ab95f_0%,#0da448_51%,#009033_100%] bg-cover bg-no-repeat text-white font-medium px-10 py-4 rounded-md inline-flex mx-auto">Get started</a>
     </div>
     <div className="bg-linear-[98.46deg,#06323e,#0f554c] bg-cover bg-no-repeat rounded-4xl flex flex-col p-[40px]">
-     <h3 className="text-white text-2xl font-bold text-center">Essentials</h3>
+     <h3 className="text-white text-2xl font-bold text-center">Navigator</h3>
      <p className="text-[#b0b0b0] text-center mb-4">CRM + Limited* VoIP</p>
      <h4 className="text-white text-6xl font-bold text-center mb-4">$139<span className="text-base font-medium text-[#b0b0b0]">/mo</span></h4>
      <ul className="space-y-4 mb-4">
