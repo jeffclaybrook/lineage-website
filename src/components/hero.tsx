@@ -2,7 +2,7 @@ import Image from "next/image"
 
 export default function Hero() {
  return (
-  <header className="py-4">
+  <header className="pb-4">
    <div className="bg-linear-[98.46deg,#06323e,#0f554c] bg-cover bg-no-repeat md:rounded-4xl md:px-16 pt-12 px-4 max-w-7xl mx-auto flex flex-col md:flex-row md:items-center gap-8">
     <div className="md:flex-1">
      <h1 className="text-white text-6xl/18 font-semibold mb-4">Success Tools For Senior Market Insurance Agents</h1>

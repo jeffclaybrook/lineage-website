@@ -45,7 +45,7 @@ export default function Navbar() {
       <Close />
      </button>
     </div>
-    <div className="flex flex-col items-start px-6 space-y-4 mt-4">
+    <div className="flex flex-col items-start px-6 space-y-4">
      <Link href={"#benefits"} className="text-[#222222] text-lg font-medium w-full">Benefits</Link>
      <Link href={"#features"} className="text-[#222222] text-lg font-medium w-full">Features</Link>
      <Link href={"#pricing"} className="text-[#222222] text-lg font-medium w-full">Pricing</Link>
